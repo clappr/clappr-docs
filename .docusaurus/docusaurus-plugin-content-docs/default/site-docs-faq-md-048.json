@@ -1,0 +1,19 @@
+{
+  "unversionedId": "faq",
+  "id": "faq",
+  "title": "FAQ",
+  "description": "How do I create a Plugin?",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/docs/faq",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/architecture"
+  }
+}

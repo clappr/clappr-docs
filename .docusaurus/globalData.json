@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "architecture",
+              "path": "/docs/architecture",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/configuration",
+              "path": "/docs/getting-started/configuration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/development",
+              "path": "/docs/getting-started/development",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/playground",
+              "path": "/docs/getting-started/playground",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/events",
+              "path": "/docs/guides/events",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/playbacks",
+              "path": "/docs/guides/playbacks",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/plugins/building",
+              "path": "/docs/guides/plugins/building",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/plugins/built-in",
+              "path": "/docs/guides/plugins/built-in",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/plugins/external",
+              "path": "/docs/guides/plugins/external",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/plugins/intro",
+              "path": "/docs/guides/plugins/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "supported_formats",
+              "path": "/docs/supported_formats",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/guides",
+              "path": "/docs/category/guides",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/category/plugins",
+              "path": "/docs/category/plugins",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guides/plugins/intro",
+  "id": "guides/plugins/intro",
+  "title": "Introduction to Plugins",
+  "description": "",
+  "source": "@site/docs/guides/plugins/intro.md",
+  "sourceDirName": "guides/plugins",
+  "slug": "/guides/plugins/intro",
+  "permalink": "/docs/guides/plugins/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/docs/category/plugins"
+  },
+  "next": {
+    "title": "Built-in Plugins",
+    "permalink": "/docs/guides/plugins/built-in"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guides/plugins/building",
+  "id": "guides/plugins/building",
+  "title": "How to Build Plugins",
+  "description": "",
+  "source": "@site/docs/guides/plugins/building.md",
+  "sourceDirName": "guides/plugins",
+  "slug": "/guides/plugins/building",
+  "permalink": "/docs/guides/plugins/building",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "External Plugins",
+    "permalink": "/docs/guides/plugins/external"
+  },
+  "next": {
+    "title": "Supported Media Formats",
+    "permalink": "/docs/supported_formats"
+  }
+}

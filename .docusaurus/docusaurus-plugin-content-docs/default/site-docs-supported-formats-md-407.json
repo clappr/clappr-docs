@@ -1,0 +1,23 @@
+{
+  "unversionedId": "supported_formats",
+  "id": "supported_formats",
+  "title": "Supported Media Formats",
+  "description": "Format         |HLS|MP4|MP3|WEBM| DASH | RTMP | FLV |",
+  "source": "@site/docs/supported_formats.md",
+  "sourceDirName": ".",
+  "slug": "/supported_formats",
+  "permalink": "/docs/supported_formats",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Build Plugins",
+    "permalink": "/docs/guides/plugins/building"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/architecture"
+  }
+}

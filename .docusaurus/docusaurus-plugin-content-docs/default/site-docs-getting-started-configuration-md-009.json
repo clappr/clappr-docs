@@ -1,0 +1,25 @@
+{
+  "unversionedId": "getting-started/configuration",
+  "id": "getting-started/configuration",
+  "title": "Configuration",
+  "description": "How to configure Clappr's Player, and more.",
+  "source": "@site/docs/getting-started/configuration.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/configuration",
+  "permalink": "/docs/getting-started/configuration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "How to configure Clappr's Player, and more."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/getting-started/installation"
+  },
+  "next": {
+    "title": "Development",
+    "permalink": "/docs/getting-started/development"
+  }
+}

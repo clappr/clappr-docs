@@ -1,0 +1,488 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/bruna.moraes/Documents/clappr-docs/clappr-docs/sidebars.js",
+          "contentPath": "/Users/bruna.moraes/Documents/clappr-docs/clappr-docs/docs",
+          "contentPathLocalized": "/Users/bruna.moraes/Documents/clappr-docs/clappr-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "architecture",
+              "id": "architecture",
+              "title": "Architecture",
+              "description": "Clappr is an extensible, open-source, plugin-oriented, HTML5-first media player for web applications. It was designed around these main components:",
+              "source": "@site/docs/architecture.md",
+              "sourceDirName": ".",
+              "slug": "/architecture",
+              "permalink": "/docs/architecture",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Supported Media Formats",
+                "permalink": "/docs/supported_formats"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/docs/faq"
+              }
+            },
+            {
+              "unversionedId": "faq",
+              "id": "faq",
+              "title": "FAQ",
+              "description": "How do I create a Plugin?",
+              "source": "@site/docs/faq.md",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/docs/faq",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Architecture",
+                "permalink": "/docs/architecture"
+              }
+            },
+            {
+              "unversionedId": "getting-started/configuration",
+              "id": "getting-started/configuration",
+              "title": "Configuration",
+              "description": "How to configure Clappr's Player, and more.",
+              "source": "@site/docs/getting-started/configuration.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/configuration",
+              "permalink": "/docs/getting-started/configuration",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "How to configure Clappr's Player, and more."
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/docs/getting-started/installation"
+              },
+              "next": {
+                "title": "Development",
+                "permalink": "/docs/getting-started/development"
+              }
+            },
+            {
+              "unversionedId": "getting-started/development",
+              "id": "getting-started/development",
+              "title": "Development",
+              "description": "How to setup Clappr in your machine.",
+              "source": "@site/docs/getting-started/development.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/development",
+              "permalink": "/docs/getting-started/development",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "How to setup Clappr in your machine."
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Configuration",
+                "permalink": "/docs/getting-started/configuration"
+              },
+              "next": {
+                "title": "Playground",
+                "permalink": "/docs/getting-started/playground"
+              }
+            },
+            {
+              "unversionedId": "getting-started/installation",
+              "id": "getting-started/installation",
+              "title": "Installation",
+              "description": "How to import Clappr, and use it in your site in no time.",
+              "source": "@site/docs/getting-started/installation.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/installation",
+              "permalink": "/docs/getting-started/installation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "How to import Clappr, and use it in your site in no time."
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
+              },
+              "next": {
+                "title": "Configuration",
+                "permalink": "/docs/getting-started/configuration"
+              }
+            },
+            {
+              "unversionedId": "getting-started/playground",
+              "id": "getting-started/playground",
+              "title": "Playground",
+              "description": "You can test Clappr directly through your browser via https://clappr.io/demo.",
+              "source": "@site/docs/getting-started/playground.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/playground",
+              "permalink": "/docs/getting-started/playground",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Development",
+                "permalink": "/docs/getting-started/development"
+              },
+              "next": {
+                "title": "Guides",
+                "permalink": "/docs/category/guides"
+              }
+            },
+            {
+              "unversionedId": "guides/events",
+              "id": "guides/events",
+              "title": "Events",
+              "description": "Clappr uses an event-based system to allow communication between components. This design allows the development of decoupled plugins that use listeners for the desired events alongside callback functions that are activated upon the triggering of events.",
+              "source": "@site/docs/guides/events.md",
+              "sourceDirName": "guides",
+              "slug": "/guides/events",
+              "permalink": "/docs/guides/events",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Guides",
+                "permalink": "/docs/category/guides"
+              },
+              "next": {
+                "title": "Playbacks",
+                "permalink": "/docs/guides/playbacks"
+              }
+            },
+            {
+              "unversionedId": "guides/playbacks",
+              "id": "guides/playbacks",
+              "title": "Playbacks",
+              "description": "",
+              "source": "@site/docs/guides/playbacks.md",
+              "sourceDirName": "guides",
+              "slug": "/guides/playbacks",
+              "permalink": "/docs/guides/playbacks",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Events",
+                "permalink": "/docs/guides/events"
+              },
+              "next": {
+                "title": "Plugins",
+                "permalink": "/docs/category/plugins"
+              }
+            },
+            {
+              "unversionedId": "guides/plugins/building",
+              "id": "guides/plugins/building",
+              "title": "How to Build Plugins",
+              "description": "",
+              "source": "@site/docs/guides/plugins/building.md",
+              "sourceDirName": "guides/plugins",
+              "slug": "/guides/plugins/building",
+              "permalink": "/docs/guides/plugins/building",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "External Plugins",
+                "permalink": "/docs/guides/plugins/external"
+              },
+              "next": {
+                "title": "Supported Media Formats",
+                "permalink": "/docs/supported_formats"
+              }
+            },
+            {
+              "unversionedId": "guides/plugins/built-in",
+              "id": "guides/plugins/built-in",
+              "title": "Built-in Plugins",
+              "description": "",
+              "source": "@site/docs/guides/plugins/built-in.md",
+              "sourceDirName": "guides/plugins",
+              "slug": "/guides/plugins/built-in",
+              "permalink": "/docs/guides/plugins/built-in",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction to Plugins",
+                "permalink": "/docs/guides/plugins/intro"
+              },
+              "next": {
+                "title": "External Plugins",
+                "permalink": "/docs/guides/plugins/external"
+              }
+            },
+            {
+              "unversionedId": "guides/plugins/external",
+              "id": "guides/plugins/external",
+              "title": "External Plugins",
+              "description": "",
+              "source": "@site/docs/guides/plugins/external.md",
+              "sourceDirName": "guides/plugins",
+              "slug": "/guides/plugins/external",
+              "permalink": "/docs/guides/plugins/external",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Built-in Plugins",
+                "permalink": "/docs/guides/plugins/built-in"
+              },
+              "next": {
+                "title": "How to Build Plugins",
+                "permalink": "/docs/guides/plugins/building"
+              }
+            },
+            {
+              "unversionedId": "guides/plugins/intro",
+              "id": "guides/plugins/intro",
+              "title": "Introduction to Plugins",
+              "description": "",
+              "source": "@site/docs/guides/plugins/intro.md",
+              "sourceDirName": "guides/plugins",
+              "slug": "/guides/plugins/intro",
+              "permalink": "/docs/guides/plugins/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Plugins",
+                "permalink": "/docs/category/plugins"
+              },
+              "next": {
+                "title": "Built-in Plugins",
+                "permalink": "/docs/guides/plugins/built-in"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to Clappr's documentation!",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
+              }
+            },
+            {
+              "unversionedId": "supported_formats",
+              "id": "supported_formats",
+              "title": "Supported Media Formats",
+              "description": "Format         |HLS|MP4|MP3|WEBM| DASH | RTMP | FLV |",
+              "source": "@site/docs/supported_formats.md",
+              "sourceDirName": ".",
+              "slug": "/supported_formats",
+              "permalink": "/docs/supported_formats",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "How to Build Plugins",
+                "permalink": "/docs/guides/plugins/building"
+              },
+              "next": {
+                "title": "Architecture",
+                "permalink": "/docs/architecture"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/getting-started",
+                  "permalink": "/docs/category/getting-started"
+                },
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "getting-started/installation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/configuration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/development"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/playground"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Guides",
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/guides",
+                  "permalink": "/docs/category/guides"
+                },
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "guides/events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "guides/playbacks"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Plugins",
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/plugins",
+                      "permalink": "/docs/category/plugins"
+                    },
+                    "collapsed": false,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "guides/plugins/intro"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "guides/plugins/built-in"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "guides/plugins/external"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "guides/plugins/building"
+                      }
+                    ],
+                    "collapsible": true
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "supported_formats"
+              },
+              {
+                "type": "doc",
+                "id": "architecture"
+              },
+              {
+                "type": "doc",
+                "id": "faq"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/tutorial",
+        "source": "@site/src/pages/tutorial.md",
+        "title": "Tutorial",
+        "description": "Get started by creating a new site.",
+        "frontMatter": {
+          "title": "Tutorial"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

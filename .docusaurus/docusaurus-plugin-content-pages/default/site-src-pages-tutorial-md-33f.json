@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tutorial",
+  "source": "@site/src/pages/tutorial.md",
+  "title": "Tutorial",
+  "description": "Get started by creating a new site.",
+  "frontMatter": {
+    "title": "Tutorial"
+  }
+}

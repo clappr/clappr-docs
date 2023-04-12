@@ -1,0 +1,23 @@
+{
+  "unversionedId": "architecture",
+  "id": "architecture",
+  "title": "Architecture",
+  "description": "Clappr is an extensible, open-source, plugin-oriented, HTML5-first media player for web applications. It was designed around these main components:",
+  "source": "@site/docs/architecture.md",
+  "sourceDirName": ".",
+  "slug": "/architecture",
+  "permalink": "/docs/architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Supported Media Formats",
+    "permalink": "/docs/supported_formats"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/faq"
+  }
+}

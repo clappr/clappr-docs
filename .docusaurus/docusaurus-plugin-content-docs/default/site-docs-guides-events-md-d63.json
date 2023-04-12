@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guides/events",
+  "id": "guides/events",
+  "title": "Events",
+  "description": "Clappr uses an event-based system to allow communication between components. This design allows the development of decoupled plugins that use listeners for the desired events alongside callback functions that are activated upon the triggering of events.",
+  "source": "@site/docs/guides/events.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/events",
+  "permalink": "/docs/guides/events",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Guides",
+    "permalink": "/docs/category/guides"
+  },
+  "next": {
+    "title": "Playbacks",
+    "permalink": "/docs/guides/playbacks"
+  }
+}

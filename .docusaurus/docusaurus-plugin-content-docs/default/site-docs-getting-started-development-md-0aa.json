@@ -1,0 +1,25 @@
+{
+  "unversionedId": "getting-started/development",
+  "id": "getting-started/development",
+  "title": "Development",
+  "description": "How to setup Clappr in your machine.",
+  "source": "@site/docs/getting-started/development.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/development",
+  "permalink": "/docs/getting-started/development",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "How to setup Clappr in your machine."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/getting-started/configuration"
+  },
+  "next": {
+    "title": "Playground",
+    "permalink": "/docs/getting-started/playground"
+  }
+}

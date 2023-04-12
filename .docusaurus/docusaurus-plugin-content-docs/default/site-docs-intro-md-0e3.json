@@ -1,0 +1,19 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to Clappr's documentation!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  }
+}

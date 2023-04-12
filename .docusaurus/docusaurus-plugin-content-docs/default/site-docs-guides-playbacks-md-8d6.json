@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guides/playbacks",
+  "id": "guides/playbacks",
+  "title": "Playbacks",
+  "description": "",
+  "source": "@site/docs/guides/playbacks.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/playbacks",
+  "permalink": "/docs/guides/playbacks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Events",
+    "permalink": "/docs/guides/events"
+  },
+  "next": {
+    "title": "Plugins",
+    "permalink": "/docs/category/plugins"
+  }
+}

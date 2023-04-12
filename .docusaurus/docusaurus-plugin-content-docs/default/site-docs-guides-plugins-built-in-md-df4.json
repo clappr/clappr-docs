@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guides/plugins/built-in",
+  "id": "guides/plugins/built-in",
+  "title": "Built-in Plugins",
+  "description": "",
+  "source": "@site/docs/guides/plugins/built-in.md",
+  "sourceDirName": "guides/plugins",
+  "slug": "/guides/plugins/built-in",
+  "permalink": "/docs/guides/plugins/built-in",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction to Plugins",
+    "permalink": "/docs/guides/plugins/intro"
+  },
+  "next": {
+    "title": "External Plugins",
+    "permalink": "/docs/guides/plugins/external"
+  }
+}

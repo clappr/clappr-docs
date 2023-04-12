@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guides/plugins/external",
+  "id": "guides/plugins/external",
+  "title": "External Plugins",
+  "description": "",
+  "source": "@site/docs/guides/plugins/external.md",
+  "sourceDirName": "guides/plugins",
+  "slug": "/guides/plugins/external",
+  "permalink": "/docs/guides/plugins/external",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Built-in Plugins",
+    "permalink": "/docs/guides/plugins/built-in"
+  },
+  "next": {
+    "title": "How to Build Plugins",
+    "permalink": "/docs/guides/plugins/building"
+  }
+}

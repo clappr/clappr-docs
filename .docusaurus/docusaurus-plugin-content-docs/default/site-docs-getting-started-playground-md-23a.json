@@ -1,0 +1,23 @@
+{
+  "unversionedId": "getting-started/playground",
+  "id": "getting-started/playground",
+  "title": "Playground",
+  "description": "You can test Clappr directly through your browser via https://clappr.io/demo.",
+  "source": "@site/docs/getting-started/playground.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/playground",
+  "permalink": "/docs/getting-started/playground",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Development",
+    "permalink": "/docs/getting-started/development"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/category/guides"
+  }
+}
