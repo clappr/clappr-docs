@@ -2,7 +2,7 @@
   "unversionedId": "guides/playbacks",
   "id": "guides/playbacks",
   "title": "Playbacks",
-  "description": "",
+  "description": "A Clappr playback is an abstraction to represent a generic playback. It refers to the video playback experience created using the Clappr media player framework, it's like an interface to be implemented by subclasses.",
   "source": "@site/docs/guides/playbacks.md",
   "sourceDirName": "guides",
   "slug": "/guides/playbacks",
