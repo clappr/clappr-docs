@@ -50,7 +50,7 @@ var player = new Clappr.Player(
       },
     },
   });
-````
+```
 
 See more: [hlsjs-playback repository](https://github.com/clappr/hlsjs-playback)
 
